@@ -1,3 +1,3 @@
 # ForensicManagementUsingBlockchain
-![Chat Application][https://ibb.co/7pz11Rv]
+![github-small](https://ibb.co/7pz11Rv)
 
